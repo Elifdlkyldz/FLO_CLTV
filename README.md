@@ -7,7 +7,9 @@ FLO wants to determine the roadmap for sales and marketing activities. In order 
 Features:
 
 master_id : Unique Customer Number
+
 order_channel : Which channel of the shopping platform is used (Android, IOS, Desktop, Mobile)
+
 last_order_channel : The channel where the most recent purchase was made
 first_order_date : Date of the customer's first purchase
 last_order_channel : Customer's previous shopping history
